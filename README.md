@@ -1,3 +1,3 @@
 # blockchain
 
-### made for educational purposes made with https://hackernoon.com/lite/learn-blockchains-by-building-one-117428612f46
+### made for educational purposes with https://hackernoon.com/lite/learn-blockchains-by-building-one-117428612f46
